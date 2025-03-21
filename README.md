@@ -1,6 +1,7 @@
 # Farm Task Manager
 
 A simple farm task management application built with **Spring Boot** (backend) and **React** (frontend).
+![image](https://github.com/user-attachments/assets/3e125c35-9745-43e9-90b2-b6ba46b67626)
 
 ## Features
 - Add and view tasks
