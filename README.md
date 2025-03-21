@@ -15,13 +15,14 @@ A simple farm task management application built with **Spring Boot** (backend) a
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/farm-task-manager.git
-cd farm-task-manager
+git clone https://github.com/ari-rosie/Demo-task-management.git
+
 ```
 
 ### 2. Run the Backend (Spring Boot)
 Ensure you have **Java 17+** and **Maven** installed. Then, navigate to the backend directory and run:
 ```sh
+cd task-manager
 ./mvnw spring-boot:run
 ```
 
@@ -30,7 +31,7 @@ The backend will start at `http://localhost:8080`.
 ### 3. Run the Frontend (React + Next.js)
 Navigate to the frontend directory:
 ```sh
-cd frontend
+cd farm-task-manager-frontend
 npm install  # Install dependencies
 npm run dev  # Start the development server
 ```
